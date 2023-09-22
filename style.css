@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    background-image: url(/right-4926156_1280.jpg);
+    color: white;
+    height: 100%;
+}
+
+nav {
+    background-color: #fff;
+    color: #0D221F;
+    padding: 10px;
+    text-align: center;
+  }
+
+
+.btn {
+    background-color: transparent;
+    color: #fff;
+    padding: 10px 20px;
+    border: 2px solid #fff;
+    border-radius: 50px; 
+    cursor: default; 
+    text-decoration: none; 
+    display: inline-block;
+    margin: 10px;
+    margin-top: 20px;
+    width: 10em;
+}
+
+
