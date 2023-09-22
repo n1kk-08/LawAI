@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+    background-color: #0D221F;
+}
+
+nav {
+    background-color: whitesmoke;
+    color: #0D221F;
+    padding: 10px;
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+    margin: 20px;
+}
+
+#prompt {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    color: white;
+    background-color: #0D221F;
+}
+
+button {
+    background-color: #7C9885;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+@media screen and (max-width: 768px) {
+    main {
+        padding: 10px; /* Adjust padding for smaller screens */
+    }
+}
